@@ -1,0 +1,2 @@
+# Digital_Clock
+The Digital Clock project was a straightforward JavaScript project that collected system data from the user's device. Its main focus was on CSS to create an appealing design. By utilizing JavaScript, the project retrieved and displayed the current time in a digital clock format. CSS played a crucial role in enhancing the clock's visual appeal. Overall, the project combined JavaScript's functionality with CSS's design capabilities to create an attractive digital clock.
